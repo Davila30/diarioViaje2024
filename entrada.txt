@@ -2,5 +2,6 @@ Dia 1: Llegamos a la ciudad
 Dia 2: Visitamos el centro historico
 Dia 3: Dia de descanso
 Dia 4: Excursion a la montaña
+Dia 5: Regreso a la casa
 Dia 6: Ultima noche en el hotel
 
