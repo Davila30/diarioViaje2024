@@ -1,0 +1,2 @@
+-e "credenciales.env" 
+-e "notasPersonales.txt" 
