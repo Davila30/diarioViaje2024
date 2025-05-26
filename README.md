@@ -9,9 +9,3 @@ Este repositorio contiene un diario ficticio para practicar el uso de Git y GitH
 - Git 
 - GitHub 
 - Markdown 
-
- Recursos de aprendizaje
-| Recurso | Tipo | Enlace |
-|----------------|----------|----------------------------------------|
-| Git Book | Documentación oficial | https://git-scm.com/book |
-| Markdown Guide | Guía interactiva | https://www.markdownguide.org |
